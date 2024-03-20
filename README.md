@@ -1,3 +1,4 @@
+# Azure Assignment
  - Create a storage account in the East US region in the resource group DevOps-training.
  - Create a container and 3 folders inside the container
  - Create the sample files and copy files into in the folders created.
